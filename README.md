@@ -1,2 +1,2 @@
 # Cricket-Score-Sheet
-Our OOP Final Project.
+Our OOP Final Project in C++ Language.
